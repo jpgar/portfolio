@@ -43,7 +43,7 @@ const links = [
             Resume <BsFillPersonLinesFill size={30} />
             </>
         ),
-        href: '/_Resume.pdf',
+        href: '/Resume.pdf',
         style: 'rounded-br-md',
         download: true,
     }
